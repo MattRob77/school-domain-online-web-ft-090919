@@ -18,4 +18,4 @@ class School
   end
 
   def sort 
-    sorted = 
+    sorted = {}
