@@ -15,3 +15,4 @@ class School
   def grade(grade)
     rostor[grade]
   end 
+end 
